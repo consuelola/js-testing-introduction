@@ -32,5 +32,8 @@ const mifuncion => {
   return 'Consuelo es lo mejor'
 };
 
+const otrafuncion => {
+  return 'Rodo es el mejor profesor'
+};
 // Start the app!
 initApp();
