@@ -28,8 +28,8 @@ const addUser = () => {
   userList.appendChild(element);
 };
 
-const myfuncionBuena = (a) => {
-  return a
+const myfuncionBuena = (a,b,c) => {
+  return a+b+c
 };
 
 // Start the app!
